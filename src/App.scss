@@ -1,0 +1,12 @@
+.App {
+  .wrapperSection {
+    padding: 8rem 0 0 0;
+  }
+}
+@media (min-width: 780px) {
+  .App {
+    .wrapperSection {
+      padding: 12rem 0 0 0;
+    }
+  }
+}
